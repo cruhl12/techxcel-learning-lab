@@ -99,7 +99,7 @@ Full detail: see `timeline.md`
 
 **Mandatory — 5 minutes before closing VS Code every session.**
 
-Open `learning-journal.md` and add an entry:
+**Step 1 — Update the journal.** Open `learning-journal.md` and add an entry:
 - What was the focus
 - What got done
 - What blocked you (be specific — not "got confused", but what specifically)
@@ -107,7 +107,16 @@ Open `learning-journal.md` and add an entry:
 - Exactly where to pick up next session
 - Confidence ratings for any skills practiced
 
-Without this, the next session starts cold. It is not optional.
+**Step 2 — Commit and push.** Run these three commands in the terminal:
+```
+git add -A
+git commit -m "brief description of what you did this session"
+git push
+```
+
+Every session ends with a commit. No exceptions. This is how the GitHub history TechXcel wants to see gets built — one session at a time.
+
+Without both steps, the next session starts cold and the portfolio doesn't grow.
 
 ---
 
