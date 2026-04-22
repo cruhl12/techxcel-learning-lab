@@ -4,6 +4,19 @@ Curated external learning by topic. Start with the linked official docs — they
 
 ---
 
+## Priority Resources — Recommended by TechXcel
+
+These were specifically recommended by TechXcel leadership. Do both before anything else.
+
+| Resource | Type | Why |
+|----------|------|-----|
+| https://anthropic.skilljar.com | Official Anthropic course platform | Recommended directly by TechXcel — work through it at your own pace |
+| IndyDevDan (YouTube) | Video | Highly relevant to agent harnesses and where the industry is heading — start with most recent videos and work backwards; newer content is more valuable |
+
+**Search YouTube for:** "IndyDevDan" — start from his most recent upload and go backwards. Skip anything that covers tools or models that have since been superseded.
+
+---
+
 ## 01 — Git & GitHub
 
 | Resource | Type | Why |
