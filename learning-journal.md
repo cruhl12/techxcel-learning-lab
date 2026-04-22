@@ -60,3 +60,21 @@ Use this format for every entry:
 **Insight:** The original structure was built without reading the proposal. The role requires Azure + API integration + RAG — none of which were in the original skill map. Structure without a target artifact produces drift.
 **Next session:** Start Project 01 — GitHub Fundamentals. Open `projects/01-github-fundamentals/` and begin the first exercise.
 **Skills practiced:** —
+
+---
+
+### 2026-04-22 - Session 3
+
+**Focus:** Learned the five-component prompt framework
+**Done:** 
+  - Set up Homebrew and GitHub CLI
+  - Authenticated GitHub
+  - Connected your local repo to github.com/cruhl12/techxcel-learning-lab
+  - Learned the five-component prompt framework
+  - Iterated a prompt three times until it was right
+  - Learned: lead with the answer, declarative over gerund, precise terminology isn't filler
+  - Committed and pushed your first real work
+**Blocked on:** — Was getting mentals blocks on finding the correct words to use and keeping things professionally phrased.
+**Insight:** I sometimes struggle to understand what I'm getting asked to do, and work best when given an example but I like that the ai also gives me space to think for myself and pushes me to do some task on my own. Writing skills are something I'd like to improve on. I can sometimes forget what all the steps are to the five-component prompt framework, so I'm thinking of getting it printed so it's something I can better remember with time and refer back to.
+**Next session:** Exercise 02: write a complete five-component prompt independently for a new TechXcel scenario, no guidance until first draft is done.
+**Skills practiced:** — Prompt Engineering: 2 | Git / GitHub: 2  
